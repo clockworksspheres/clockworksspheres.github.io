@@ -1,4 +1,4 @@
-![alt text](https://github.com/clockworksspheres/clockworksspheres.github.io/bNwScorpion.jpg)
+![alt text](bNwScorpion.jpg)
 
 # clockworksspheres.github.io
 Organization website for clockworksspheres related projects and contributions
