@@ -1,4 +1,4 @@
-[](bNwScorpion.jpg)
+![alt Scorpion](bNwScorpion.jpg)
 
 # clockworksspheres.github.io
 Organization website for clockworksspheres related projects and contributions
