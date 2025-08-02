@@ -3,6 +3,8 @@ Organization website for clockworksspheres related projects and contributions
 
 If you know anyone that likes playing with python, or wants to learn it - I'm hoping to find some help making some help with a couple of projects on Github clockworksspheres projects, has some basic stuff, stretching skills stuff, and potentially some advanced stuff too.
 
+-----
+
 ## Current Projects
  
 ### [eisenban](https://github.com/clockworksspheres/eisenban) Project
