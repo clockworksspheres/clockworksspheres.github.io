@@ -6,7 +6,6 @@ If you know anyone that likes playing with python, or wants to learn it - I'm ho
 -----
 
 ## Current Projects
- 
 ### [eisenban](https://github.com/clockworksspheres/eisenban) Project
 
 Productivity software - will be combining the Eisenhower Matrix and Kanban methodologies
