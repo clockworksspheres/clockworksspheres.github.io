@@ -1,5 +1,3 @@
-[!alt text](http://raw.githubusercontent.com/clockworksspheres/clockworksspheres.github.io/main/bNwScorpion.jpg)
-
 # clockworksspheres.github.io
 Organization website for clockworksspheres related projects and contributions
 
