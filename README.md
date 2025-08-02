@@ -2,8 +2,10 @@
 Organization website for clockworksspheres related projects and contributions
 
 If you know anyone that likes playing with python, or wants to learn it - I'm hoping to find some help making some help with a couple of projects on Github clockworksspheres projects, has some basic stuff, stretching skills stuff, and potentially some advanced stuff too.
+
+## Current Projects
  
-## [eisenban](https://github.com/clockworksspheres/eisenban) Project
+### [eisenban](https://github.com/clockworksspheres/eisenban) Project
 
 Productivity software - will be combining the Eisenhower Matrix and Kanban methodologies
 
@@ -11,7 +13,7 @@ Simple app for managing time - right now simple is relative, throwing tons of st
 
 Currently based on the [Kanbaru](http://github.com/dulapahv/Kanbaru) project.
 
-## [ramdisk](https://github.com/clockworksspheres/ramdisk) Project
+### [ramdisk](https://github.com/clockworksspheres/ramdisk) Project
 
 The ramdisk project - current branch "ui", might work better than main.  The two main things I still use it for is when building software - like the Qt or Pside/PyQt stack, or other scientific stacks, hook the ramdisk in as the temporary build cache, because WAAAY too often I've had build cache corruptions - and going down that rathole trying to figure out why things are building, and changes being made aren't changing things, because of corrupt build caches can take days to figure out sometimes, with bigger projects.  Another use is temporary disk usage in devops/secdevops processes.  Temporary devops/devsecops pipeline processes using ramdisks for product/process/system deployment can both speed things up, and help reduce problems related to cache poisoning.  One can keep the cache as long as it's useful, if errors start arising - one can slap an additional one up (assuming memory is available)to do testing/diagnosis of errors in parallel.  Currently working on macOS and Linux, still needs work on Windows.
 
