@@ -1,4 +1,4 @@
-![alt text](http://raw.githubusercontent.com/clockworksspheres/clockworksspheres.github.io/main/bNwScorpion.jpg){width="200", height="200"}
+![alt text](http://raw.githubusercontent.com/clockworksspheres/clockworksspheres.github.io/main/bNwScorpion.jpg){zoom=".5"}
 
 # clockworksspheres.github.io
 Organization website for clockworksspheres related projects and contributions
