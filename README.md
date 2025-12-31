@@ -12,7 +12,7 @@ Productivity software - will be combining the Eisenhower Matrix and Kanban metho
 
 Simple app for managing time - right now simple is relative, throwing tons of stuff around, including framework ideas from different projects I’ve worked on in the past.    
 
-Currently based on the [Kanbaru](http://github.com/dulapahv/Kanbaru) project.  Works on macOS and Windows.
+Currently based on the [Kanbaru](http://github.com/dulapahv/Kanbaru) project.  Works on macOS, Linux and Windows.
 ### [ramdisk](https://github.com/clockworksspheres/ramdisk) Project
 
 The ramdisk project - current branch "ui", might work better than main.  
