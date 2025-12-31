@@ -21,6 +21,10 @@ The two main things I still use it for is when building software - like the Qt o
 
 Another use is temporary disk usage in devops/secdevops processes.  Temporary devops/devsecops pipeline processes using ramdisks for product/process/system deployment can both speed things up, and help reduce problems related to cache poisoning.  One can keep the cache as long as it's useful, if errors start arising - one can slap an additional one up (assuming memory is available)to do testing/diagnosis of errors in parallel.  Currently working on macOS, Linux, and Windows.
 
+### [wNp](https://github.com/clockworksspheres/wNp) **Project**
+
+Example project on using PySide6 for different functionality that includes graphing of weather tracking history and a pain grading system.  Eventually this macOS/Linux/Windows app will be cleaned up and will also function on phone systems.  It will likely migrate from PySide6 to Kivy project, that supports both computer and phone systems. 
+
 -----
 
 ## Older Projects
