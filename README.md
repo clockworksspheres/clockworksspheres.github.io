@@ -22,6 +22,8 @@ can manage UTM, VMware Fusion and VirtualBox VM's on macOS as well as HyperV, VM
 
 The tool is meant for developers, scientists, engineers and others to automate local CI/CT processes, that may feed into enterprise CI/CD process as well.
 
+Project inspired by the need to manage OS's in many VM's for cross platform testing.
+
 #### [jenkinsTools](https://github.com/clockworksspheres/jenkinstools) **Project**
 Command line tools for interfacing with Jenkins
 
@@ -32,6 +34,8 @@ Command line tools to:
  * manage nodes from the command line
  * work with a simple pipeline from the command line
  * add previously created ssh credential to Jenkins from the command line.
+
+Project inspired by the need to manage OS's in many VM's for cross platform testing.
 
 ### Dev Tool **Projects**
 
