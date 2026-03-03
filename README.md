@@ -1,12 +1,41 @@
 # clockworksspheres.github.io
 Organization website for clockworksspheres related projects and contributions
 
-If you know anyone that likes playing with python, or wants to learn it - I'm hoping to find some help making some help with a couple of projects on Github clockworksspheres projects, has some basic stuff, stretching skills stuff, and potentially some advanced stuff too.
+If you know anyone that likes playing with python, or wants to learn it - I'm hoping to find some help making and supportinge a couple of projects on Github clockworksspheres projects. 
+
+This organization has some CI/CT/CT projects, Dev projects and an example Pyside6 project.  Depending on the contributions, contributions could include documentation, testing, skills stretching, and potentially some advanced topics as well.  
+
+All of the current projects are cross platform Linux, macOS and Windows, except the vmm project that is meant for macOS and Windows.
 
 -----
 
 ## Current Projects
-### [ramdisk](https://github.com/clockworksspheres/ramdisk) Project
+
+### CI/CT/CD **Projects**
+
+#### [vmm](https://github.com/clockworksspheres/vmm) **Project**
+A basic virtual machine management command line tool, vmctl, meant for developers to manage UTM, HyperV, Vmware Fusion and Workstation and Virtualbox VM's. Script can be used to automate local developer Jenkins or ci/cd processes, pipelines, etc.
+
+For managing local VM's to assist CI/CD processes
+
+can manage UTM, VMware Fusion and VirtualBox VM's on macOS as well as HyperV, VMware Workstation and Virtualbox VMs on Windows.
+
+The tool is meant for developers, scientists, engineers and others to automate local CI/CT processes, that may feed into enterprise CI/CD process as well.
+
+#### [jenkinsTools](https://github.com/clockworksspheres/jenkinstools) **Project**
+Command line tools for interfacing with Jenkins
+
+Relies on the python-jenkins library to interface with a Jenkins server.
+
+Command line tools to:
+
+ * manage nodes from the command line
+ * work with a simple pipeline from the command line
+ * add previously created ssh credential to Jenkins from the command line.
+
+### Dev Tool **Projects**
+
+#### [ramdisk](https://github.com/clockworksspheres/ramdisk) Project
 
 The ramdisk project - current branch "ui", might work better than main.  
 
@@ -14,7 +43,7 @@ The two main things I still use it for is when building software - like the Qt o
 
 Another use is temporary disk usage in devops/secdevops processes.  Temporary devops/devsecops pipeline processes using ramdisks for product/process/system deployment can both speed things up, and help reduce problems related to cache poisoning.  One can keep the cache as long as it's useful, if errors start arising - one can slap an additional one up (assuming memory is available)to do testing/diagnosis of errors in parallel.  Currently working on macOS, Linux, and Windows.
 
-### [eisenban](https://github.com/clockworksspheres/eisenban) Project
+#### [eisenban](https://github.com/clockworksspheres/eisenban) Project
 
 Productivity software - will be combining the Eisenhower Matrix and Kanban methodologies
 
@@ -22,7 +51,9 @@ Simple app for managing time - right now simple is relative, throwing tons of st
 
 Currently based on the [Kanbaru](http://github.com/dulapahv/Kanbaru) project.  Works on macOS, Linux and Windows.
 
-### [wNp](https://github.com/clockworksspheres/wNp) **Project**
+### PySide6 example **Project**
+
+#### [wNp](https://github.com/clockworksspheres/wNp) **Project**
 
 Example project on using PySide6 for different functionality that includes graphing of weather tracking history and a pain grading system.  Eventually this macOS/Linux/Windows app will be cleaned up and will also function on phone systems.  It will likely migrate from PySide6 to Kivy project, that supports both computer and phone systems. 
 
