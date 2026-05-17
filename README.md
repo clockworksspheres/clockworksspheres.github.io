@@ -18,7 +18,7 @@ A basic manage virtual machines command line tool, vmctl, meant for developers t
 
 For managing local VM's to assist CI/CD processes
 
-can manage UTM, VMware Fusion and VirtualBox VM's on macOS as well as HyperV, VMware Workstation and Virtualbox VMs on Windows.
+can manage UTM, VMware Fusion and VirtualBox VM's on macOS as well as HyperV, VMware Workstation and Virtualbox VMs on Windows. Windows support is in an alpha state.
 
 The tool is meant for developers, scientists, engineers and others to automate local CI/CT processes, that may feed into enterprise CI/CD process as well.
 
@@ -41,17 +41,17 @@ Project inspired by the need to manage OS's in many VM's for cross platform test
 
 #### [ramdisk](https://github.com/clockworksspheres/ramdisk) Project
 
-The ramdisk project - current branch "ui", might work better than main.  
+The ramdisk project - current branch "ui", might work better than "master".  
 
-The two main things I still use it for is when building software - like the Qt or Pside/PyQt stack, or other scientific stacks, hook the ramdisk in as the temporary build cache, because WAAAY too often I've had build cache corruptions - and going down that rathole trying to figure out why things are building, and changes being made aren't changing things, because of corrupt build caches can take days to figure out sometimes, with bigger projects.  
+The two main things I still use it for is when building software - like the Qt or Pside/PyQt stack, or other scientific stacks, hook the ramdisk in as the temporary build cache, because WAY too often I've had build on top of cache corruptions - and going down that rathole trying to figure out why things are building, and changes being made aren't changing things, because of corrupt build caches can take days to figure out sometimes, with bigger projects.  
 
 Another use is temporary disk usage in devops/secdevops processes.  Temporary devops/devsecops pipeline processes using ramdisks for product/process/system deployment can both speed things up, and help reduce problems related to cache poisoning.  One can keep the cache as long as it's useful, if errors start arising - one can slap an additional one up (assuming memory is available)to do testing/diagnosis of errors in parallel.  Currently working on macOS, Linux, and Windows.
 
 #### [eisenban](https://github.com/clockworksspheres/eisenban) Project
 
-Productivity software - will be combining the Eisenhower Matrix and Kanban methodologies
+Productivity software - will be combining the Eisenhower Matrix and Kanban methodologies.
 
-Simple app for managing time - right now simple is relative, throwing tons of stuff around, including framework ideas from different projects I’ve worked on in the past.    
+Simple app for managing time - right now simple is relative.  Added/merged in code from other clockworksspheres projects.
 
 Currently based on the [Kanbaru](http://github.com/dulapahv/Kanbaru) project.  Works on macOS, Linux and Windows.
 
