@@ -5,7 +5,7 @@ If you know anyone that likes playing with python, or wants to learn it - I'm ho
 
 This organization has some CI/CT/CD projects, Dev projects and an example Pyside6 project.  Depending on the contributions, contributions could include documentation, testing, skills stretching, and potentially some advanced topics as well.  
 
-All of the current projects are cross platform Linux, macOS and Windows, except the mvm project that is meant for macOS and Windows.
+All of the current projects are cross platform Linux, macOS and Windows, except the mvm project that is meant for macOS and Windows, although there are future plans to support linux.
 
 -----
 
@@ -14,7 +14,7 @@ All of the current projects are cross platform Linux, macOS and Windows, except 
 ### CI/CT/CD **Projects**
 
 #### [mvm](https://github.com/clockworksspheres/mvm) **Project**
-A basic manage virtual machines command line tool, vmctl, meant for developers to manage UTM, HyperV, Vmware Fusion and Workstation and Virtualbox VM's. Script can be used to automate local developer Jenkins or ci/cd processes, pipelines, etc.
+A basic manage virtual machines command line tool, vmctl, meant for developers to manage UTM, HyperV, Vmware Fusion and Workstation and Virtualbox VM's. Script can be used to automate local developer Jenkins or CI/CD processes, pipelines, etc.
 
 For managing local VM's to assist CI/CD processes
 
