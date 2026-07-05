@@ -3,7 +3,7 @@ Organization website for clockworksspheres related projects and contributions
 
 If you know anyone that likes playing with python, or wants to learn it - I'm hoping to find some help making and supportinge a couple of projects on Github clockworksspheres projects. 
 
-This organization has some CI/CT/CT projects, Dev projects and an example Pyside6 project.  Depending on the contributions, contributions could include documentation, testing, skills stretching, and potentially some advanced topics as well.  
+This organization has some CI/CT/CD projects, Dev projects and an example Pyside6 project.  Depending on the contributions, contributions could include documentation, testing, skills stretching, and potentially some advanced topics as well.  
 
 All of the current projects are cross platform Linux, macOS and Windows, except the mvm project that is meant for macOS and Windows.
 
